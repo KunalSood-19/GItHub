@@ -1,0 +1,6 @@
+this is the file to learn restoring commited files
+// how to restore a commited file using checkout command...
+
+{checkout} command will restore the file changes to the last commited version
+format for restoring the file is 
+git checkout file name
